@@ -3,6 +3,8 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
+  max-width: 1541px;
+  margin: 0 auto;
 
 }
 
