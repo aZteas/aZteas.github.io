@@ -42,9 +42,9 @@ img {
 }
 
 img:hover {
-  -ms-transform: scale(1.015);
-  -webkit-transform: scale(1.015);
-  transform: scale(1.015);
+  -ms-transform: scale(0.985);
+  -webkit-transform: scale(0.985);
+  transform: scale(0.985);
 }
 
 .bildbox * {
