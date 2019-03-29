@@ -37,10 +37,20 @@ body {
   padding: 15px;
 }
 
+img {
+  transition: .2s;
+}
+
+img:hover {
+  -ms-transform: scale(1.015);
+  -webkit-transform: scale(1.015);
+  transform: scale(1.015);
+}
+
 .bildbox * {
- flex: 1 1 50%;
- max-width: 500px;
- padding: 2px;
+  flex: 1 1 50%;
+  max-width: 500px;
+  padding: 2px;
 }
 
 
